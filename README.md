@@ -3,7 +3,10 @@ The WP Notification System is a custom WordPress plugin that helps you show impo
 
 It’s like a mini-notification center right inside your site, controlled directly from your WordPress admin dashboard.
 
-✅ What This Plugin Does (In Simple Terms)
+
+
+<h2>✅ What This Plugin Does (In Simple Terms)</h2>
+======================================================================
 📢 1. Shows Popup Notifications on Your Site
 A small notification bell icon appears on the front end of your website.
 
