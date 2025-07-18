@@ -4,7 +4,7 @@ wp-notification-system
 <?php
 /**
  * Plugin Name: WP Notification System
- * Plugin URI: https://yourdomain.com/wp-notification-system
+ * Plugin URI: https://github.com/arclub99/wp-notification-system
  * Description: Custom frontend popup notifications with admin post control.
  * Version: 1.0.0
  * Author: RashidVerse
